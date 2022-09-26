@@ -16,7 +16,7 @@ Lists and Tuples Exercises is a list of exercises to you practice Lists and Tupl
 See below what you need to start programming in Python today.
 
 - [Python](https://www.python.org/downloads/) - Programming language
-- [IntelliJ](https://www.jetbrains.com/pt-br/idea/download/) - Virtual environment
+- [VS Code](https://code.visualstudio.com/download) - Virtual environment
 
 And of course Lists and Tuples Exercises itself is open source with a [public repository](https://github.com/nandafachini/Lists-and-Tuples.git)
  on GitHub.
